@@ -1,5 +1,6 @@
 # 💫 About Me:
-Computer Science engineering student at BITS Dubai. My aim is to use my technical and creative skills to create innovative and unique designs that solve everyday problems. I'm eager to learn more and develop my skills and knowledge.<br>
+Computer Science engineering student at BITS Dubai. Trying to use my technical and creative skills to create innovative and unique designs that solve everyday problems.
+Eager to learn more and develop my skills and knowledge.<br>
 
 
 ## 🌐 Socials:
