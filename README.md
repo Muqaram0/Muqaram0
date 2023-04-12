@@ -1,6 +1,7 @@
 <h3>💫 About Me:</h3>
 Computer Science engineering student at BITS Dubai. Trying to use my technical and creative skills to create innovative and unique designs that solve everyday problems.
 Eager to learn more and develop my skills and knowledge.<br>
+<br>
 
 
 
