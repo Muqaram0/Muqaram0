@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muqaram Majid</h1>
-<h3 align="center">Computer Science engineering student at BITS Dubai. My aim is to use my technical and creative skills to create innovative and unique designs that solve everyday problems. I'm eager to learn more and develop my skills and knowledge.</h3>
+<h3 align="center">Computer Science engineering student at BITS Dubai. Trying to use my technical and creative skills to create innovative and unique designs that solve everyday problems. I'm eager to learn more and develop my skills and knowledge.</h3>
 
 
 <p align="left">
@@ -11,3 +11,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muqaram0&show_icons=true&locale=en" alt="muqaram0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muqaram0&" alt="muqaram0" /></p>
+
+
