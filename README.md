@@ -9,7 +9,7 @@ Eager to learn more and develop my skills and knowledge.<br>
 
 
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SpeyStale#0926) 
+
 
   
 
