@@ -11,4 +11,17 @@ Boxing has instilled in me the values of **leadership**, **resilience**, and **p
 
 Connect with me! Let's discuss cybersecurity, share experiences, and explore potential collaborations.
 
+## Latest Project
+
+- **Gym Management System** [Project 1](https://github.com/Muqaram0/Gym_management_tkinter)
+  - Developed a comprehensive management system facilitating basic operations such as customer addition, deletion, update, and viewing.
+  - Implemented Python-MySQL connectivity for seamless database management.
+
+## Latest Open Source Contribution
+
+- **University Notes** [Contribution 1](https://uni-notes.netlify.app)
+  - Contributed to the chemistry notes section.
+
+
+  
 
