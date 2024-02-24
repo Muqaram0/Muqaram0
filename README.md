@@ -9,7 +9,6 @@ In my journey, I've cultivated proficiency in various programming languages such
 
 Boxing has instilled in me the values of **leadership**, **resilience**, and **perseverance**, while my dedication to art reflects my commitment to **discipline** and attention to **detail**.
 
-Connect with me! Let's discuss cybersecurity, share experiences, and explore potential collaborations.
 
 ## 🔥 Latest Project
 
