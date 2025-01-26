@@ -12,9 +12,9 @@ Boxing has instilled in me the values of **leadership**, **resilience**, and **p
 
 ## 🔥 Latest Project
 
-- **Gym Management System** [Gym Management System](https://github.com/Muqaram0/Gym_management_tkinter)
-  - Developed a comprehensive management system facilitating basic operations such as customer addition, deletion, update, and viewing.
-  - Implemented Python-MySQL connectivity for seamless database management.
+- **Excercise_Pose_Correction** [Excercise_Pose_Correction](https://github.com/Muqaram0/Excercise_Pose_Correction)
+  - This project implements a real-time fitness tracking and posture correction system using computer vision and deep learning techniques.
+  - Focuses on detecting and classifying three key exercises—push-ups, squats, and bicep curls—while providing real-time feedback on exercise form.
 
 ## 🔥 Latest Open Source Contribution
 
