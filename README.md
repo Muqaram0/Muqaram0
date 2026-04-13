@@ -3,7 +3,7 @@
   <h1>Hi there! 👋 </h1>
 </div>
 
-I'm Mufti Muqaram Majid Farooqi, a **Computer Science Engineering** student with a passion for **cybersecurity**. Alongside my academic pursuits, I'm a self-taught **freelance artist** and a dedicated **University-level boxer**.
+I'm Muqaram Majid, a **Computer Science Engineering** student with a passion for **cybersecurity**. Alongside my academic pursuits, I'm a self-taught **freelance artist** and a dedicated **University-level boxer**.
 
 In my journey, I've cultivated proficiency in various programming languages such as **Python**, **MySQL**, **C**, and **Java**. Additionally, I'm adept at utilizing productivity tools like **Excel**, **Microsoft Office**, **Google Docs/Slides**, **Notion**, and **AutoCAD**. My creative endeavors extend to software like **Adobe Photoshop** and **Adobe Illustrator**.
 
